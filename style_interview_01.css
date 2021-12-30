@@ -260,10 +260,10 @@ a:hover {
   top: -180%;
   left: 2.5%;
   flex-direction: column;
-  width:75%;
-  height:75%;
-  max-width: 75% !important;
-  max-height: 75% !important;
+  width:70%;
+  height:70%;
+  max-width: 70% !important;
+  max-height: 70% !important;
   cursor: -webkit-grab; cursor: grab;
   pointer-events:none;
 }
