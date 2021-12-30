@@ -236,8 +236,8 @@ a:hover {
   flex-direction: column;
   width:75%;
   height:75%;
-  max-width: 50% !important;
-  max-height: 50% !important;
+  max-width: 75% !important;
+  max-height: 75% !important;
   cursor: -webkit-grab; cursor: grab;
   pointer-events:none;
 }
