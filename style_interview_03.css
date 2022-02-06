@@ -294,19 +294,19 @@ a:hover {
   top: -180%;
   left: 2.5%;
   flex-direction: column;
-  width:70%;
-  height:70%;
-  max-width: 70% !important;
-  max-height: 70% !important;
+  width:75%;
+  height:75%;
+  max-width: 75% !important;
+  max-height: 75% !important;
   cursor: -webkit-grab; cursor: grab;
   pointer-events:none;
 }
 
 .imagetiles {
-  width:55%;
-  height:55%;
-  max-width: 55% !important;
-  max-height: 55% !important;
+  width:60%;
+  height:60%;
+  max-width: 60% !important;
+  max-height: 60% !important;
   top: 0%;
   left: 0%;
 }
