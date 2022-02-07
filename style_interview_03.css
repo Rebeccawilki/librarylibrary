@@ -209,6 +209,11 @@ a:link {
 	color: #6B38BF !important;
 }
 
+.back-ll-mobile:link {
+	color: white !important;
+
+}
+
 /* visited link */
 
 /*a:visited {
@@ -217,6 +222,11 @@ a:link {
 
 .linkgeneral:visited {
 	color: #6B38BF !important;
+
+}
+
+.back-ll-mobile:visited {
+	color: white !important;
 
 }
 
